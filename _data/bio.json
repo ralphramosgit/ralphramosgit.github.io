@@ -1,118 +1,139 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ralph Ramos",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/ralphramosgit.png",
+    "email": "rramos26@hawaii.edu",
+    "phone": "808-784-9414",
+    "website": "https://ralphramosgit.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ralphramosgit", "url": "http://github.com/ralphramosgit" },
+      { "network": "linkedin", "username": "ralph jhon ramos", "url": "http://linkedin.com/in/ralph-jhon-ramos-8b7316242" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Development" },
+    { "name": "Machine Learning" },
+    { "name": "Computer Aided Design" },
+    { "name": "Cloud Development" },
+    { "name": "DevOps" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "vi/vim", "Git/GitHub", "g++", "Visual Studio Code" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-20",
       "endDate": "Present",
-      "courses": [
+      "courses": ["ICS111", "ICS211", "ICS212", "ICS314", "ICS311"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UHGroupings",
+      "position": "Web Application Developer",
+      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Create groupings, manage grouping memberships, control members' self-service options, designate sync destinations, and more.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official UHGroupings website"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Punahou School",
+      "position": "IT Service Technician ",
+      "website": "http://www.punahou.edu",
+      "startDate": "2024-05-15",
+      "endDate": "2024-08-20",
+      "summary": "Provide Technical support for the students and staff of Punahou",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Reimage and payload Devices: Macs, PC, iPads for students and staffs",
+        "Help troubleshoot any technical issues"
+      ]
+    },
+    {
+      "company": "Servco",
+      "position": "Software Developer Intern",
+      "website": "http://www.servco.com",
+      "startDate": "2022-06-13",
+      "endDate": "2022-08-05",
+      "summary": "Maintain, Configure, Troubleshoot company software projects",
+      "highlights": [
+        "Helped with the development of the Contact Our Team Page, a page to contact employees",
+        "Tools used: Javascript, Postman, Salesforce Commerce Cloud, XML, bootstrap, CSS"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "ACM Manoa",
+      "website": "http://acmmanoa.org",
+      "position": "Software Developer Team Member",
+      "startDate": "2024-01-10",
+      "endDate": "2024-05-09",
+      "summary": "Team Member for the ACM Software Development club",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Updated the attendance tracker for ACM",
+        "My contribution: Enhanced the backend to handle ID duplicates in the same event using javascript and firebase. "
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "2nd Place SERVCO Internship Hackathon",
+      "date": "2022",
+      "awarder": "SERVCO",
+      "summary": "A hackathon held for the summer interns where members from different strategies teams collaborate on the challenge."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hawaii State Science and Engineering Fair finalist",
+      "date": "2021 & 2022",
+      "awarder": "Hawaii Academy of Science",
+      "summary": "High Schoool state science fair project where I developed a COVID-19 Chatbot"
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": "Available upon request",
+      
+      "name": "Minami, Shigehiro - Punahou School, Chief IT Officer",
+      "address": [
+        "1601 Punahou St #101",
+        "Honolulu, HI 96822-3399"
+      ],
+      "phone": "808-983-5013"
+      "email": "sminami@punahou.edu"
+
+      "name": "Das, Prayag - ACM Manoa, Software Development Lead",
+      "address": [
+        "University of Hawaii at Manoa",
+        "2500 Campus Rd,",
+        "Honolulu, HI 96822"
+      ],
+      "phone": "510-335-2234"
+      "email": "prayag.j.das2001@gmail.com",
+
+      "name": "Ouye, Thomas - SERVCO, Software Development Mentor",
+      "address": [
+        "2850 Pukoloa St #101",
+        "Honolulu, HI 96819"
+      ],
+      "phone": "808-388-5217"
+      "email": "ouyet@hawaii.edu"
     }
   ]
 }
