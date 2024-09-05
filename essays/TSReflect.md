@@ -14,7 +14,7 @@ labels:
 
 *Design is not just what it looks like and feels like. Design is how it works - Steve Jobs*
 
-Developers usually are caught up with the idea that their design is all about the visual apeal and aesthetics, when in reality, design should be more about how it operates. When it comes to programming with JavaScript we can be too focused on just seeing how clean and short the code is. But this could lead into errors, maintainability issues, and lack of understanding of how our code works. 
+Developers are usually caught up with the idea that their design is all about the visual apeal and aesthetics, when in reality, design should be more about how it operates. When it comes to programming with JavaScript we can be too focused on just seeing how clean and short the code is. But this could lead into errors, maintainability issues, and lack of understanding of how our code works. 
 
 When I first heard about TypeScript, I was both curious and cautious. Coming from a background of JavaScript and Python since high school, I wondered how much more of a difference a type system could make in a language that extends from JavaScript. When I dove deeper into learning TypeScript, I started to feel that the language is more than just JavaScript with types. To me, it felt like a bridge connecting the flexibility of javascript and the reliability of more structured languages like Java or C++.
 
