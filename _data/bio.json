@@ -108,31 +108,34 @@
   ],
   "references": [
     {
-      "name": "Available upon request",
-      
+      "name": "Available upon request"
+    },
+    {
       "name": "Minami, Shigehiro - Punahou School, Chief IT Officer",
       "address": [
         "1601 Punahou St #101",
         "Honolulu, HI 96822-3399"
       ],
-      "phone": "808-983-5013"
+      "phone": "808-983-5013",
       "email": "sminami@punahou.edu"
-
+    },
+    {
       "name": "Das, Prayag - ACM Manoa, Software Development Lead",
       "address": [
         "University of Hawaii at Manoa",
-        "2500 Campus Rd,",
+        "2500 Campus Rd",
         "Honolulu, HI 96822"
       ],
-      "phone": "510-335-2234"
-      "email": "prayag.j.das2001@gmail.com",
-
+      "phone": "510-335-2234",
+      "email": "prayag.j.das2001@gmail.com"
+    },
+    {
       "name": "Ouye, Thomas - SERVCO, Software Development Mentor",
       "address": [
         "2850 Pukoloa St #101",
         "Honolulu, HI 96819"
       ],
-      "phone": "808-388-5217"
+      "phone": "808-388-5217",
       "email": "ouyet@hawaii.edu"
     }
   ]
