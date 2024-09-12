@@ -4,7 +4,6 @@
     "label": "Student",
     "picture": "https://github.com/ralphramosgit.png",
     "email": "rramos26@hawaii.edu",
-    "phone": "808-784-9414",
     "website": "https://ralphramosgit.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
