@@ -14,7 +14,7 @@ summary: "A COVID-19 Chatbot to answer COVID concerns"
 ---
 Source: <a href="https://ralphramosgit.github.io/Covey/"><i class="large github icon "></i>Covey Chatbot</a>
 
-<img class="img-fluid" src="../img/coveyIcon.png" width = "200" height = "200" >
+<img src="../img/coveyIcon.png" width = "200" height = "200" >
 
 In short, this project helps answer COVID-19 concerns through chatting with a chatbot named Covey. Questions about symptoms, vaccines, and additional CDC resources. There are also features where you can upload your vaccine card and provides additional official resources.
 (THIS PROJECT DOES NOT USE AI)
