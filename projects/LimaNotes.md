@@ -17,6 +17,7 @@ summary: "A Chrome extension to make a TODO list for Laulima."
 </div>
 
 
+Source: <a href="https://github.com/ralphramosgit/LimaNotes/"><i class="large github icon "></i>LimaNotes</a>
 
 ## A Laulima Chrome Extension to create a TODO list of assignments.
 
@@ -37,4 +38,3 @@ HTML, CSS, JAVASCRIPT, JSON
 ### Why LimaNotes:
 Having LimaNotes helps you stay productive and be mindful of what assignments are due. When you hop on Google Chrome and log in to Laulima, you can easily organize the notes all in one screen and application. You can finally see all the homework assignments that are due in one place instead of going to individual class links. This reduces the clutter of constantly switching between Laulima tabs and external to-do list apps, streamlining your workflow. LimaNotes integrates seamlessly into the Laulima platform, ensuring you never miss an assignment by providing an intuitive, centralized hub for managing your coursework. It makes staying on top of your tasks simpler and more efficient, allowing you to focus on what's important—completing your assignments on time.
  
-Source: <a href="https://github.com/ralphramosgit/LimaNotes/"><i class="large github icon "></i>LimaNotes</a>
