@@ -13,10 +13,12 @@ labels:
   - CSS
 summary: "A contact page for the Servco Staffs."
 ---
+Source: <a href="https://www.servcotoyota.com/contact-our-team?type=store" target="_blank">SERVCO CONTACT</a>
 
 <div style="text-align: center;">
   <img class="img-fluid" src="../img/scIcon.png" width = "200" height = "200" >
 </div>
+
 ### SERVCO Contact Our Team Page
 During my Software Developement Internship, I contributed in creating a page where users can contact the staffs at SERVCO. 
 <div style="text-align: center;">
@@ -41,5 +43,5 @@ I helped format the frontend displaying the staff pictures and filters. I wrote 
 
 <hr>
 
-Source: <a href="https://www.servcotoyota.com/contact-our-team?type=store" target="_blank">SERVCO CONTACT OUR TEAM</a>
+
 
