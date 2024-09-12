@@ -13,7 +13,7 @@ labels:
 summary: "A Chrome extension to make a TODO list for Laulima."
 ---
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/LNicon.png">
+  <img class="img-fluid" src="../img/LNicon.png" width = "300" height "300">
 </div>
 
 
@@ -27,7 +27,7 @@ A problem I was facing was having trouble making a TODO list whenever I would go
 I created a Laulima Chrome extension where you can add and delete TODOs. The TODO's input would include the homework name, the details about the homework/TODO, and finally, you can select on the calendar when the due date is for that assignment. The list is organized from the earlier due dates to the later due dates. This allows students to stay focused on the Laulima platform while keeping their assignment tracking in one place. By having everything within a single browser extension, it reduces the need to switch between devices or tabs, ensuring a smoother, more efficient workflow. With a clear visual of tasks, students can prioritize their time more effectively and avoid missing important deadlines.
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/LNdemo.png">
+  <img class="img-fluid" src="../img/LNdemo">
 </div>
 
 
