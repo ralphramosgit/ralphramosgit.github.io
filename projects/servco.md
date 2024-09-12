@@ -15,7 +15,7 @@ summary: "A contact page for the Servco Staffs."
 ---
 
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/scicon.png" width = "200" height = "200" >
+  <img class="img-fluid" src="../img/scIcon.png" width = "200" height = "200" >
 </div>
 ### SERVCO Contact Our Team Page
 During my Software Developement Internship, I contributed in creating a page where users can contact the staffs at SERVCO. 
