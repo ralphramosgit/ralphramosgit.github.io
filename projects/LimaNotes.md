@@ -13,7 +13,7 @@ labels:
 summary: "A Chrome extension to make a TODO list for Laulima."
 ---
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/LNicon.png" width = "300" height "300">
+  <img class="img-fluid" src="../img/LNicon.png" width = "250" height = "250">
 </div>
 
 
