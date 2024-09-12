@@ -12,8 +12,7 @@ labels:
   - CSS
 summary: "A Chrome extension to make a TODO list for Laulima."
 ---
-### LimaNotes
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/LNicon.png">
 
 
 ## A Laulima Chrome Extension to create a TODO list of assignments.
@@ -23,6 +22,7 @@ A problem I was facing was having trouble making a TODO list whenever I would go
 
 ### SOLUTION:
 I created a laulima chrome extension where you can add and delete TODO's. The TODO's input would include the homework name, the details about the homeowrk / TODO, and finally you can select on the calendar when the due date is for that assignment. The list is organized from the earlier due dates to the later due dates.
+<img class="img-fluid" src="../img/LNdemo.png">
 
 ### TECHNOLOGIES:
 HTML, CSS, JAVASCRIPT, JSON
