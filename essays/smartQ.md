@@ -8,7 +8,7 @@ published: true
 labels:
   - Computer Science
 ---
-<img class="img-fluid" src="../img/soSnip.png" width = "200" height = "200" >
+<img class="img-fluid" src="../img/soSnip.png" >
 
 *There are naïve questions, tedious questions, ill-phrased questions… but every question is a cry to understand. There is no such thing as a dumb question - Carl Sagan*
 
