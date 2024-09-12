@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/coveyIcon.png
 title: "Covey: COVID-19 Chat Bot"
-date: 2015
+date: 2022
 published: true
 labels:
   - High School Science and Engineering Fair (States)
