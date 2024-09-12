@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/scIcon.png
 title: "SERVCO CONTACT OUR TEAM PAGE"
 date: 2022
 published: true
@@ -13,12 +13,19 @@ labels:
   - CSS
 summary: "A contact page for the Servco Staffs."
 ---
+
+<div style="text-align: center;">
+  <img class="img-fluid" src="../img/scicon.png" width = "200" height = "200" >
+</div>
 ### SERVCO Contact Our Team Page
 During my Software Developement Internship, I contributed in creating a page where users can contact the staffs at SERVCO. 
-
+<div style="text-align: center;">
+  <img class="img-fluid" src="../img/scDemo.png" >
+</div>
 ## Features:
 The page shows a list of the staffs with their names, profile pictures, and job position. There are filteres to filter out the staffs. Filters include store location, department they work in such as management, 
 sales, services or parts. When clicking on the contact button, it shows their contact card, their phone number, email, and job position.
+
 
 ## My contribution to the project:
 I helped format the frontend displaying the staff pictures and filters. I wrote the code to match the wanted 
