@@ -13,8 +13,9 @@ labels:
 summary: "A Chrome extension to make a TODO list for Laulima."
 ---
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/LNicon.png" width= "180" height = "180">
+  <img class="img-fluid" src="../img/LNicon.png" style="max-width: 180px; height: auto;">
 </div>
+
 
 
 ## A Laulima Chrome Extension to create a TODO list of assignments.
