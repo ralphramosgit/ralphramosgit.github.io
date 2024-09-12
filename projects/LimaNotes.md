@@ -1,4 +1,17 @@
-
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "LimaNotes"
+date: 2024
+published: true
+labels:
+  - JavaScript
+  - Chrome Extension
+  - HTML
+  - CSS
+summary: "A Chrome extension to make a TODO list for Laulima."
+---
 ### LimaNotes
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
