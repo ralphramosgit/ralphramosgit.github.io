@@ -16,4 +16,4 @@ In short, this project helps answer COVID-19 concerns through chatting with a ch
 ``` THIS PROJECT DOES NOT USE AI
 ```the input of questions and answers are all hardcoded into arrays where it checks if a certain word is detected within that array. (I was a high schooler at the time and so I didn't have much knowledge of coding)
 
-<iframe src="/projects/Covey.pdf" width="1280" height="720" style="border: none;"></iframe>
+<iframe src="Covey.pdf" width="1280" height="720" style="border: none;"></iframe>
