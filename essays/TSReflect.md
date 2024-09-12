@@ -6,7 +6,7 @@ title: "Balancing Flexibility and Structure"
 date: 2024-09-04
 published: true
 labels:
-  - Engineering
+  - Computer Science
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="https://media.istockphoto.com/id/1291886933/vector/software-development-for-different-devices-process-of-optimization-debugging-program-or-code.jpg?s=612x612&w=0&k=20&c=fd8kebQt8GTx_h0hLpaEeymEuBBbdR76aOWYQ-mAZkE=" alt="Software Development Image">
