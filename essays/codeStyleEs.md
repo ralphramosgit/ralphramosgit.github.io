@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Code with Style: Why Standards Matter More than You Think"
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-025
+date: 2024-09-25
 published: true
 labels:
   - Software Engineering
