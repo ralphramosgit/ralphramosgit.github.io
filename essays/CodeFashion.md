@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Autiobiography
 ---
-<img width="200px" class="rounded float-start pe-4" src="https://media.istockphoto.com/id/1411384087/photo/woman-fashion-designer-is-drawing-sketch-and-working-in-her-studio.jpg?s=612x612&w=0&k=20&c=HYJSCVf_o-EkCuKGtmT1_RYwAq2RDfvCV83SbIwRIeo=" alt="Kids Puzzle Image">
+<img width="300px" class="rounded float-start pe-4" src="https://media.istockphoto.com/id/1411384087/photo/woman-fashion-designer-is-drawing-sketch-and-working-in-her-studio.jpg?s=612x612&w=0&k=20&c=HYJSCVf_o-EkCuKGtmT1_RYwAq2RDfvCV83SbIwRIeo=" alt="Kids Puzzle Image">
 
 
 *"Design adds value faster than it adds costs." -- Joel Spolsky, web programmer, writer, and creator of Trello*
