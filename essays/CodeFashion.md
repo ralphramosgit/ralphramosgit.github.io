@@ -7,6 +7,7 @@ date: 2024-10-09
 published: true
 labels:
   - Software Engineering
+  - Bootstrap 5
   - Autiobiography
 ---
 <img width="300px" class="rounded float-start pe-4" src="https://media.istockphoto.com/id/1411384087/photo/woman-fashion-designer-is-drawing-sketch-and-working-in-her-studio.jpg?s=612x612&w=0&k=20&c=HYJSCVf_o-EkCuKGtmT1_RYwAq2RDfvCV83SbIwRIeo=" alt="Kids Puzzle Image">
