@@ -14,7 +14,7 @@ labels:
 
 *"Design adds value faster than it adds costs." -- Joel Spolsky, web programmer, writer, and creator of Trello*
 
-In a word of web development, a well-crafted user interface can elevate even the simplest websites. When Spolksky said the quote above, he meant that the benefits of a good design can often be seen immediately.It highlights the importance of investing in a good design in order to enhance the user experience and add value to your product or service. A well-designed interface can deliver more value with fewer resources in which it proves that good design is an investment, not an expense.
+In a world of web development, a well-crafted user interface can elevate even the simplest websites. When Spolksky said the quote above, he meant that the benefits of a good design can often be seen immediately.It highlights the importance of investing in a good design in order to enhance the user experience and add value to your product or service. A well-designed interface can deliver more value with fewer resources in which it proves that good design is an investment, not an expense.
 
 ### Discovering Bootstrap: A New Kind of Efficiency
 When I first dipped my toes into web design back in my sophomore year of high school, I realized how tedious and chaotic raw HTML and CSS can get. Luckily enough, Bootstrap 5 came to the rescue which helped transform the way I approached building web pages. Unlike traditional coding, where you can wrestle with endless lines of code to make things align right, Bootstrap 5 simplifies the process and makes designing much more intuitive and cleaner.
