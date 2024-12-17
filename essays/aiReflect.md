@@ -10,7 +10,7 @@ labels:
   - Autiobiography
   - AI
 ---
-<img width="200px" class="rounded float-start pe-4" src="https://i.imgur.com/5MT29c1.png" alt="Kids Puzzle Image">
+<img width="200px" class="rounded float-start pe-4" src="../img/aiimage.jpg" alt="Kids Puzzle Image">
 
 
 *You can't connect the dots looking forward; you can only connect them looking backwards - Steve Jobs*
