@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Autiobiography
 ---
-<img width="200px" class="rounded float-start pe-4" src="sweReflect.png" alt="Software Engineering">
+<img width="200px" class="rounded float-start pe-4" src="../img/sweReflect.png" alt="Software Engineering">
 
 
 *In the world of software, the best way to predict the future is to invent it. - Alan Kay (American Computer Scientist best known for his pionerring work on object oriented programming)*
