@@ -93,6 +93,12 @@
   ],
   "awards": [
     {
+      "title": "2nd Place HACC Hawaii Annual Code Challenge",
+      "date": "2024",
+      "awarder": "Office of Enterprise Technologies",
+      "summary": "A hackathon challenge that required remodeling the Hawaii Open Data Portal"
+    },
+    {
       "title": "2nd Place SERVCO Internship Hackathon",
       "date": "2022",
       "awarder": "SERVCO",
