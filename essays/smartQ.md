@@ -1,4 +1,4 @@
----
+ARCHIVED 
 layout: essay
 type: essay
 title: "Never Wrong To Ask"
@@ -7,7 +7,7 @@ date: 2024-09-04
 published: true
 labels:
   - Computer Science
----
+
 <img class="img-fluid" src="../img/soSnip.png" >
 
 *There are naïve questions, tedious questions, ill-phrased questions… but every question is a cry to understand. There is no such thing as a dumb question - Carl Sagan*
