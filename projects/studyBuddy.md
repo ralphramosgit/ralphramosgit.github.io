@@ -17,9 +17,9 @@ summary: "An application to schedule study sessions and find study buddies."
   <img class="img-fluid" src="../img/studyBuddy/studyBuddyLogo.PNG" width = "250" height = "250">
 </div>
 
-(Deployed Site)[https://study-buddy-inky-nine.vercel.app/]
-(Homepage of project)[https://uhm-studymax.github.io/]
-(Source Code)[https://github.com/uhm-studymax/study-buddy]
+(Deployed Site) [https://study-buddy-inky-nine.vercel.app/]
+(Homepage of project) [https://uhm-studymax.github.io/]
+(Source Code) [https://github.com/uhm-studymax/study-buddy]
 
 
 ## An application to schedule study sessions and find study buddies.
