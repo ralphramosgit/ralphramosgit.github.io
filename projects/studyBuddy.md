@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/studyBuddy/studyBuddyLogo.png
+image: img/studyBuddy/studyBuddyLogo.PNG
 title: "Study Buddy"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "An application to schedule study sessions and find study buddies."
 ---
 <div style="text-align: center;">
-  <img class="img-fluid" src="../img/studyBuddy/studyBuddyLogo.png" width = "250" height = "250">
+  <img class="img-fluid" src="../img/studyBuddy/studyBuddyLogo.PNG" width = "250" height = "250">
 </div>
 
 (Deployed Site)[https://study-buddy-inky-nine.vercel.app/]
@@ -32,18 +32,16 @@ With Study Buddy, you can find buddies to study with. You can create study sessi
 
 ### Why Study Buddy by UHM_StudyMax:
 It's simple, easy to use, and engaging. Meet new friends, become a productive and successful student.
-
-  <iframe
-    width="1100"
-    height="618.75"
-    src="https://www.youtube.com/embed/auDqvob7254?si=0sPUmew74mybzD63"
-    title="YouTube video player"
-    frameBorder="0"
-    allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerPolicy="strict-origin-when-cross-origin"
-    allowFullScreen
-  ></iframe>
+<iframe
+  width="1100"
+  height="618.75"
+  src="https://www.youtube.com/embed/auDqvob7254?si=0sPUmew74mybzD63"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerPolicy="strict-origin-when-cross-origin"
+  allowFullScreen
+></iframe>
 
 ### TECH STACK:
 - TypeScript
