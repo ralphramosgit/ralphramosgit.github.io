@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI is My Frenemy"
+title: "Indecisive AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
