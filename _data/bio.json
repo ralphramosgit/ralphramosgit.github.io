@@ -1,147 +1,190 @@
 {
   "basics": {
-    "name": "Ralph Ramos",
-    "label": "Student",
+    "name": "Ralph Jhon Ramos",
+    "label": "Software Engineer",
     "picture": "https://github.com/ralphramosgit.png",
-    "email": "rramos26@hawaii.edu",
+    "email": "22ralph.ramos@gmail.com",
     "website": "https://ralphramosgit.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
-    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Software Engineer specializing in Web, Mobile, and Full-Stack Development with experience across UHGroupings, Tochigami, Punahou Schools, and Servco. Expected graduation: Dec 2026.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "ralphramosgit", "url": "http://github.com/ralphramosgit" },
-      { "network": "linkedin", "username": "ralph jhon ramos", "url": "http://linkedin.com/in/ralph-jhon-ramos-8b7316242" }
+      {
+        "network": "github",
+        "username": "ralphramosgit",
+        "url": "https://github.com/ralphramosgit"
+      },
+      {
+        "network": "linkedin",
+        "username": "ralphjramos",
+        "url": "https://linkedin.com/in/ralphjramos"
+      }
     ]
   },
+
   "interests": [
-    { "name": "Software Development" },
-    { "name": "Machine Learning" },
-    { "name": "Computer Aided Design" },
-    { "name": "Cloud Development" },
-    { "name": "DevOps" }
+    { "name": "Software Engineering" },
+    { "name": "Mobile Development" },
+    { "name": "Web Development" },
+    { "name": "AI & Data Visualization" }
   ],
+
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Typescript" ]
+      "name": "Languages",
+      "keywords": ["Java", "Python", "C", "PostgreSQL", "JavaScript", "TypeScript", "HTML", "CSS"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "vi/vim", "Git/GitHub", "g++", "Visual Studio Code" ]
+      "name": "Frameworks",
+      "keywords": ["React", "Node.js", "Next.js", "SpringBoot", "JUnit", "Vitest"]
+    },
+    {
+      "name": "Developer Tools",
+      "keywords": [
+        "VS Code",
+        "IntelliJ IDEA",
+        "Git",
+        "Azure",
+        "Docker",
+        "Firebase",
+        "Vercel",
+        "AWS S3",
+        "AWS EC2",
+        "Salesforce Commerce Cloud"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "keywords": ["Prisma", "Matplotlib", "Chart.js", "Jest", "SwaggerUI", "Tailwind", "Bootstrap"]
     }
   ],
+
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2026)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2023-08-20",
-      "endDate": "Present",
-      "courses": ["ICS111", "ICS211", "ICS212", "ICS314", "ICS311"
-      ]
+      "startDate": "2022",
+      "endDate": "2026",
+      "courses": []
     }
   ],
+
   "work": [
     {
       "company": "UHGroupings",
-      "position": "Web Application Developer",
-      "website": "https://www.hawaii.edu/its/uhgroupings/",
+      "position": "Software Engineer Intern",
+      "website": "",
       "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Create groupings, manage grouping memberships, control members' self-service options, designate sync destinations, and more.",
+      "summary": "Developed features for student/staff groupings & access control.",
       "highlights": [
-        "Maintain, update, and oversee official UHGroupings website"
+        "Modernized legacy AngularJS codebase while transitioning to React",
+        "Developed access control features for groupings and email list services",
+        "Used SpringBoot REST APIs for 20K+ student and 1.4K staff records",
+        "Wrote Jest/Vitest tests ensuring high reliability"
       ]
     },
     {
-      "company": "Punahou School",
-      "position": "IT Service Technician ",
-      "website": "http://www.punahou.edu",
+      "company": "Tochigami (Startup)",
+      "position": "Mobile App Developer",
+      "website": "",
+      "startDate": "2024-11-01",
+      "endDate": "2025-01-01",
+      "summary": "Built mobile app mapping features for real estate listings.",
+      "highlights": [
+        "Developed Google Maps features for displaying 10K+ Hawaii house listings",
+        "Integrated backend real-time property rendering",
+        "Built with React Native, Android Studio, Xcode, and ExpoGo"
+      ]
+    },
+    {
+      "company": "Punahou Schools",
+      "position": "Information Technology Service Technician",
+      "website": "",
       "startDate": "2024-05-15",
       "endDate": "2024-08-20",
-      "summary": "Provide Technical support for the students and staff of Punahou",
+      "summary": "Provided technical support and hardware deployment for faculty & students.",
       "highlights": [
-        "Reimage and payload Devices: Macs, PC, iPads for students and staffs",
-        "Help troubleshoot any technical issues"
+        "Deployed and re-imaged 200+ devices (MacBooks, PCs, iPads)",
+        "Resolved 15+ weekly software/hardware issues",
+        "Delivered high-quality support with strong user feedback"
       ]
     },
     {
-      "company": "Servco",
-      "position": "Software Developer Intern",
-      "website": "http://www.servco.com",
+      "company": "Servco Pacific Inc.",
+      "position": "Software Engineer Intern",
+      "website": "",
       "startDate": "2022-06-13",
       "endDate": "2022-08-05",
-      "summary": "Maintain, Configure, Troubleshoot company software projects",
+      "summary": "Integrated WorkDay REST API and supported staff directory development.",
       "highlights": [
-        "Helped with the development of the Contact Our Team Page, a page to contact employees",
-        "Tools used: Javascript, Postman, Salesforce Commerce Cloud, XML, bootstrap, CSS"
+        "Built dynamic internal staff directory with filtering (JS/XML)",
+        "Used Salesforce Commerce Cloud for integration",
+        "Worked Agile/Scrum with Jira + Azure DevOps CI/CD"
       ]
     }
   ],
-  "volunteer": [
+
+  "projects": [
     {
-      "organization": "ACM Manoa",
-      "website": "http://acmmanoa.org",
-      "position": "Software Developer Team Member",
-      "startDate": "2024-01-10",
-      "endDate": "2024-05-09",
-      "summary": "Team Member for the ACM Software Development club",
+      "name": "NASA Space Apps Challenge: Meteor Madness",
+      "startDate": "2025-10-01",
+      "endDate": "2025-10-01",
+      "summary": "3D asteroid impact simulator with AI-assisted risk calculations.",
       "highlights": [
-        "Updated the attendance tracker for ACM",
-        "My contribution: Enhanced the backend to handle ID duplicates in the same event using javascript and firebase. "
+        "Built 3D Earth/asteroid simulation using Three.JS",
+        "Integrated AI/LLM models to correlate asteroid and earthquake data",
+        "Fetched NASA NEO & USGS APIs for real-time predictions",
+        "Developed asteroid-defense mini-game"
+      ]
+    },
+    {
+      "name": "UHSpace HACC 2024",
+      "startDate": "2024-12-01",
+      "endDate": "2024-12-01",
+      "summary": "Modernized the Hawaii Open Data Portal.",
+      "highlights": [
+        "Developed chatbot + advanced data visualization UI",
+        "Integrated Grok AI chatbot for answering user queries",
+        "Deployed frontend on Firebase; backend Flask API in Docker on EC2"
+      ]
+    },
+    {
+      "name": "Study Buddy",
+      "startDate": "2024-12-01",
+      "endDate": "2024-12-01",
+      "summary": "Full-stack web app for student study session matching.",
+      "highlights": [
+        "Frontend built with Next.js + Bootstrap",
+        "Backend with PostgreSQL + Prisma",
+        "Deployed to Vercel and onboarded UH students"
       ]
     }
   ],
+
+  "certifications": [
+    { "title": "Responsible Conduct of Research Engineers", "date": "2025" },
+    { "title": "Information Security Awareness Training", "date": "2025" }
+  ],
+
   "awards": [
     {
-      "title": "2nd Place HACC Hawaii Annual Code Challenge",
+      "title": "2nd Place Hackathon Winner",
       "date": "2024",
-      "awarder": "Office of Enterprise Technologies",
-      "summary": "A hackathon challenge that required remodeling the Hawaii Open Data Portal"
-    },
-    {
-      "title": "2nd Place SERVCO Internship Hackathon",
-      "date": "2022",
-      "awarder": "SERVCO",
-      "summary": "A hackathon held for the summer interns where members from different strategies teams collaborate on the challenge."
-    },
-    {
-      "title": "Hawaii State Science and Engineering Fair finalist",
-      "date": "2021 & 2022",
-      "awarder": "Hawaii Academy of Science",
-      "summary": "High Schoool state science fair project where I developed a COVID-19 Chatbot"
+      "awarder": "Hawaii Annual Code Challenge",
+      "summary": ""
     }
   ],
+
   "references": [
     {
       "name": "Available upon request"
-    },
-    {
-      "name": "Minami, Shigehiro - Punahou School, Chief IT Officer",
-      "address": [
-        "1601 Punahou St #101",
-        "Honolulu, HI 96822-3399"
-      ],
-      "phone": "808-983-5013",
-      "email": "sminami@punahou.edu"
-    },
-    {
-      "name": "Das, Prayag - ACM Manoa, Software Development Lead",
-      "address": [
-        "University of Hawaii at Manoa",
-        "2500 Campus Rd",
-        "Honolulu, HI 96822"
-      ],
-      "phone": "510-335-2234",
-      "email": "prayag.j.das2001@gmail.com"
-    },
-    {
-      "name": "Ouye, Thomas - SERVCO, Software Development Mentor",
-      "address": [
-        "2850 Pukoloa St #101",
-        "Honolulu, HI 96819"
-      ],
-      "phone": "808-388-5217",
-      "email": "ouyet@hawaii.edu"
     }
   ]
 }
