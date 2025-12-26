@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/user-attachments/assets/d7614737-1189-4c16-915c-58b5ac92d487
+image: /img/nasaSAC.png
 title: "NASA Space Apps Challenge: Meteor Madness"
 date: 2025
 published: true
