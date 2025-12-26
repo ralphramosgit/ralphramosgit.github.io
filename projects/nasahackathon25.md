@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/nasaSAC.png
+image: img/nasaSAC.png
 title: "NASA Space Apps Challenge: Meteor Madness"
 date: 2025
 published: true
