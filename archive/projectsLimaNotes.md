@@ -4,7 +4,7 @@ type: project
 image: img/LNicon.png
 title: "LimaNotes"
 date: 2024
-published: true
+published: false
 labels:
   - JavaScript
   - Chrome Extension
