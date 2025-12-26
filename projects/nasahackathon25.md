@@ -3,7 +3,7 @@ layout: project
 type: project
 image: https://github.com/user-attachments/assets/d7614737-1189-4c16-915c-58b5ac92d487
 title: "NASA Space Apps Challenge: Meteor Madness"
-date: 2024
+date: 2025
 published: true
 labels:
   - TypeScript
@@ -34,11 +34,11 @@ NASA Meteor Bears is an interactive asteroid impact simulator that transforms co
 NASA Meteor Bears is an interactive educational game that simulates asteroid impacts using real data from NASA’s Near-Earth Object database and USGS seismic records. Built with Next.js, TypeScript, and Three.js, it models impact physics and visualizes effects from orbital paths to crater formation on real terrain. The game creatively combines science and storytelling through AI-generated risk scenarios powered by GROQ’s Llama 3.1 LLM, which compares asteroid energy to past earthquakes to make learning more engaging. By blending accurate data, immersive visuals, and interactive gameplay, the project turns complex planetary defense science into an accessible and memorable learning experience for students, educators, and the public.
 
 ## NASA DATA
-[NASA Near-Earth Object (NEO) Web Service Application Programming Interface (API)](https://api.nasa.gov/)
-[U.S. Geological Survey (USGS) National Earthquake Information Center (NEIC) Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/)
-[Small-Body Database Query Tool](https://ssd.jpl.nasa.gov/planets/approx_pos.html)
-[Near-Earth Comets - Orbital Elements API](https://data.nasa.gov/dataset/near-earth-comets-orbital-elements-api)
-[Elliptical Orbit Simulator](https://nasa.github.io/mission-viz/RMarkdown/Elliptical_Orbit_Design.html)
+- [NASA Near-Earth Object (NEO) Web Service Application Programming Interface (API)](https://api.nasa.gov/)
+- [U.S. Geological Survey (USGS) National Earthquake Information Center (NEIC) Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/)
+- [Small-Body Database Query Tool](https://ssd.jpl.nasa.gov/planets/approx_pos.html)
+- [Near-Earth Comets - Orbital Elements API](https://data.nasa.gov/dataset/near-earth-comets-orbital-elements-api)
+- [Elliptical Orbit Simulator](https://nasa.github.io/mission-viz/RMarkdown/Elliptical_Orbit_Design.html)
 
 
 ### TECH STACK:
