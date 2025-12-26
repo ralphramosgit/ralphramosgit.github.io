@@ -4,7 +4,7 @@ type: project
 image: img/coveyIcon.png
 title: "Covey: COVID-19 Chat Bot"
 date: 2022
-published: true
+published: false
 labels:
   - High School Science and Engineering Fair (States)
   - HTML
